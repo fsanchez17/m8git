@@ -1,0 +1,42 @@
+*{
+	margin: 0px;
+}
+
+body{
+	margin: 0 auto;
+	max-width:700px;
+}
+
+header h1{
+	background-color: #848484;
+	color: #fff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 8px;
+}
+
+div#form-access{
+	margin: 0 auto;
+	width: 350px !important;
+}
+
+#open-keyboard{
+	height:34px;
+}
+#inputKeypad{
+	width:325px;
+}
+
+div.form-inline{
+	margin-bottom:20px;
+}
+
+.fa-info-circle{
+	cursor:pointer;
+}
+
+.container_index{
+	margin:0 auto;
+	margin-top:30px;
+	max-width:300px;
+}
